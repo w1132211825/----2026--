@@ -13,10 +13,10 @@
 - 见根目录 requirements.txt
 
 ## 3. 文件结构说明
-- `src/main_pdqn_optimization.py`：核心算法入口文件，包含环境、网络、Agent和训练脚本
+- `src/RUN_semantic_Mpdqn.py`：核心算法入口文件，包含环境、网络、Agent和训练脚本
 - `requirements.txt`：Python依赖列表
 
 ## 4. 如何运行
 1. 安装依赖：`pip install -r requirements.txt`
-2. 运行训练：`python src/main_pdqn_optimization.py`
+2. 运行训练：`python src/RUN_semantic_Mpdqn.py`
 
